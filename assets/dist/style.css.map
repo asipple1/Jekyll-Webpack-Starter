@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./assets/src/sass/main.scss"],"names":[],"mappings":"AAAA,OACE,qBAAa,CAAb,qBAAa,CAAb,cAAa,CACb,iBAAgB,EACjB","file":"./assets/dist/style.css","sourcesContent":["body {\n  display: flex;\n  background: blue;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./assets/src/sass/main.scss"],"sourceRoot":""}
